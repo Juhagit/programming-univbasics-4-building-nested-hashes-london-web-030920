@@ -29,7 +29,7 @@ def monopoly_with_third_tier
      :two_pieces_ownded => 50,
      :three_pieces_owned => 100,
      :four_pieces_owned => 200},
-     :names =>{:road1 =>}
+     :names =>{:road1 =>{}, :road2 =>{}, :road3 =>{}, :road4{}}
   }
   }
 end
